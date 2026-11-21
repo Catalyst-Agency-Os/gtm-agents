@@ -12,6 +12,7 @@ AI agents for the work sales, marketing, RevOps and GTM teams repeat every week.
 
 | Agent | What it does | Built live |
 |---|---|---|
+| [Founder idea library](marketing/founder-idea-library/) | Turn every call your team records into a library of what your founder says, then into a month of content in their voice. | 2026-11-24 |
 
 ## Sales
 
