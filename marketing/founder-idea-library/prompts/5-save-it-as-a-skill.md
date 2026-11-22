@@ -19,15 +19,15 @@ ideas.md, and how many [CONFIRM] and [SIMPLIFIED] tags need a look.
 It never publishes anything.
 ```
 
-Then connect two things in Claude's settings, under connectors. Riverside reads your recordings, and Parallel Search finds what's already published. Parallel is free. Riverside needs one of its paid plans, so if your calls live somewhere else, put last month's calls in `month/` instead, one file per call with its date in the name. Change `[your studio]` to the Riverside studio your calls are saved in, and run this.
+Then connect two things in Claude's settings, under connectors. Circleback reads your recorded meetings, and Parallel Search finds what's already published. In Circleback, give last month's calls one tag, so Claude reads those and nothing else. If your calls live somewhere else, put them in `month/` instead, one file per call with its date in the name. Change `[your tag]` to that tag's name, and run this.
 
 ```
-Using the Riverside connector, find the studio [your studio] and
-list only its projects. Take the four most recent recordings from last month. For each one,
+Using the Circleback connector, find my meetings from last month
+tagged [your tag], and only those. Take the four most recent. For each one,
 oldest first, read its transcript and pull the ideas out the way step
 2 does, into runs/<call name>/brief.md, with timestamps written as
 [mm:ss] and every person written as their role, never their name. If
-Riverside isn't connected, use the calls in month/ instead. Add the
+Circleback isn't connected, use the calls in month/ instead. Add the
 ideas to ideas.md. Move every idea said on more than one call into
 the "Said on more than one call" section at the top of ideas.md.
 Then, using ideas.md and voice.md, write month-plan.md, a plan for

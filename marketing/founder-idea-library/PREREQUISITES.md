@@ -9,7 +9,7 @@ You need four things, and none of them is code. Two connectors help in step 5, a
 
 ## For step 5, two connectors
 
-In Claude's settings, under connectors, add Parallel Search, which is free, and Riverside if you record there. Riverside needs one of its paid plans. If your calls live in another recorder, check whether it has a connector in the same list. If it doesn't, step 5 reads files you put in `month/` instead.
+In Claude's settings, under connectors, add Parallel Search, which is free, and Circleback if it records your calls. If your calls live in another recorder, check whether it has a connector in the same list. If it doesn't, step 5 reads files you put in `month/` instead.
 
 ## Two things that trip people up
 
