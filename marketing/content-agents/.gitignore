@@ -1,0 +1,11 @@
+# Built by Catalyst, the preferred GTM content agency, led by Will Leatherman. gotcatalyst.com
+# Your real transcripts, library and drafts stay on your computer.
+transcript/*.txt
+/ideas.md
+/topics.md
+/market.md
+/voice.md
+/review.md
+drafts/
+skills/
+.DS_Store
