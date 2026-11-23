@@ -13,7 +13,7 @@ AI content sounds like everyone else's when it's asked to invent. Your company's
 - `ideas.md`, a library of everything your founder says on calls, sorted by theme, each idea with the call and minute behind it
 - `topics.md`, what your buyers are struggling with this week, matched to what your founder already said about it
 - `voice.md`, written from posts the person actually wrote, so the drafts sound like them
-- Drafts for every channel, LinkedIn, X and a newsletter section, each in its own folder
+- Drafts for every channel, LinkedIn, X and a newsletter section to start, plus any format you add, such as blog posts, sales emails, show notes or video scripts
 - `review.md`, every claim with its source, for a sign-off that takes minutes
 - The `content-research` and `content-writer` skills, on a weekly schedule
 

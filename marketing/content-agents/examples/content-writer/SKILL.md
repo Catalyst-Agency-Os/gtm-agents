@@ -18,7 +18,7 @@ For the top 3 topics in "This week's topics", write drafts for the channels `mar
 - **LinkedIn.** One post per topic, in the format `topics.md` picked for it, within 20 words of the average length of the posts in `voice.md`, counting words only, with the hook inside the first 140 characters.
 - **X.** One thread of 6 to 8 posts on the strongest topic, each under 280 characters, where post 1 makes a claim that stands on its own.
 - **Newsletter.** One section of 180 to 220 words on all three topics, opening on the buyers' pain, with one link out written as [your link].
-- **Any other channel** `market.md` names gets one draft in the shape that channel uses.
+- **Any other format** `market.md` names, such as a blog post, a sales email, podcast show notes, a short video script or a page AI can quote, gets one draft on the strongest topic in the shape that format uses, in its own folder.
 
 The first line of each piece names the buyer's pain from `topics.md` in plain words. Every line after it comes from `ideas.md`, and never take a test, a framework or a claim from a web piece. Use each quote in one channel only, and never repeat a first line across channels. Leave out any line that names our own product or service unless the topic is about it. Follow `voice.md` exactly. Never write a linking line that claims something about the speaker. Keep who or what every number was measured on. Keep the drafts clean of tags, except a [CONFIRM] idea, which keeps its tag.
 

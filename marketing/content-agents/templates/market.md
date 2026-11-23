@@ -20,7 +20,7 @@ Three to five people or companies your buyers follow, competitors included.
 
 ## Channels we publish on
 
-The channels the writer agent writes for, such as LinkedIn, X and a weekly newsletter.
+The channels and formats the writer agent writes for. LinkedIn, X and a weekly newsletter are the start. Add any other format you publish, such as blog posts, sales emails, podcast show notes, short video scripts or pages that answer a buyer's question.
 
 ## Topics we stay away from
 

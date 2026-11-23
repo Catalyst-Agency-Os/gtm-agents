@@ -116,6 +116,10 @@ in the file name.
 - Newsletter, one section of 180 to 220 words on all three topics,
   opening on the buyers' pain, such as "Three problems came up this
   week", with one link out written as [your link] for me to fill in.
+- Any other format market.md names, such as a blog post, a sales
+  email, podcast show notes, a short video script or a page AI can
+  quote, one draft on the strongest topic in the shape that format
+  uses, in its own folder.
 
 The first line of each piece names the buyer's pain in plain words.
 Every line after it comes from ideas.md, and never take a test, a
