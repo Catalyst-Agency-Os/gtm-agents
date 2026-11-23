@@ -14,11 +14,16 @@ with the call's file name and the timestamp where it was said, like
 the turn the words sit in, and cite both turns when a quote runs
 across two. If an idea is already there, add this call as another
 source instead of a new entry, and move it to "Said on more than one
-call" at the top. Swap the name of any customer, prospect,
-competitor, other company or person other than the speaker for their
-role or type of company. Keep a research firm's name only as the
-source of a number. If something is unclear, mark it [CONFIRM]
-instead of guessing. End with how many calls you read, how many ideas
+call" at the top. Check the last ten minutes of each call, where the
+speaker sums up, and add every action and number from it. Swap the
+name of any customer, prospect, competitor, agency, vendor, company
+used as an example, or person other than the speaker for their role
+or type of company. Keep the names of the platforms a call is about,
+such as Google, LinkedIn or Claude. Keep a research firm's or
+university's name only as the source of a number, and when a vendor
+or agency published it, write "a vendor's study" or "an agency's
+study" instead. If something is unclear, mark it [CONFIRM] instead
+of guessing. End with how many calls you read, how many ideas
 went in, and how many were said on more than one call.
 ```
 
