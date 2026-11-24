@@ -6,15 +6,14 @@
 
 No `[CONFIRM]` idea went into a draft, so the drafts carry no `[CONFIRM]` tag.
 
-Eight source lines came from the transcripts before step 1 had filed them in `ideas.md`. They are now filed under their ideas and checked word for word. They sit behind linkedin/2026-11-24-1 line 7, linkedin/2026-11-24-2 line 3, linkedin/2026-11-24-3 lines 3, 9 and 11 to 13, and newsletter/2026-11-24 line 9.
+Eight source lines came from the transcripts before step 1 had filed them in `ideas.md`. They are now filed under their ideas and checked word for word. One of them sits behind newsletter/2026-11-24 line 9.
 
 ### Lines that don't come straight from ideas.md
 
-- linkedin/2026-11-24-1, line 1 · "Why does nobody trust the CRM?" The buyer's pain from `topics.md`, as the first line is allowed to be.
-- linkedin/2026-11-24-1, line 3 · "Here's the honest answer." A turning line taken from the voice file. It carries no claim.
-- linkedin/2026-11-24-2, line 1 · "Your first RevOps hire is cleaning data instead of building anything." The buyer's pain, close to what the speaker said about a first RevOps hire.
-- linkedin/2026-11-24-2, lines 5, 7 and 9 · "Here's what I said on that call.", "Because" and "And the cleanup doesn't even stick." The draft's linking words.
-- linkedin/2026-11-24-3, line 1 · "Your forecast looks healthy and still misses." The buyer's pain from `topics.md`.
+- linkedin/2026-11-24-1, line 1 · "A podcast host asked me why the world needs another CRM, when nobody trusts the one they've got." The buyer's pain from `topics.md`, told as the host's question at 2026-10-02-revops-podcast [00:54], "And why build another CRM? There are a lot of them."
+- linkedin/2026-11-24-2, line 1 · "A head of RevOps told me half their week used to go on cleaning data and building reports nobody trusted." The buyer's pain from `topics.md`, in the customer's own words at 2026-10-29-customer-onboarding [05:16], "Before, I'd say half my week was cleaning data and building reports nobody trusted." The customer is written as their role.
+- linkedin/2026-11-24-2, lines 5, 9 and 11 · "I told them,", "And you don't need to bring the old mess with you." and "So" are the draft's linking words.
+- linkedin/2026-11-24-3, line 1 · "Last spring I signed off on a forecast that looked healthy and still missed." The buyer's pain from `topics.md`, told through what was said at 2026-10-16-pipeline-webinar [01:15], "Because I'd signed off on that forecast. That was me."
 - x/2026-11-24-thread, post 1 · "Nobody trusts the CRM because nobody wants to type into it." The buyer's pain.
 - x/2026-11-24-thread, post 6 · "Here's what that looks like." A turning line with no claim.
 - newsletter/2026-11-24, line 1 · The three problems are the buyer pains from `topics.md`.
@@ -22,12 +21,16 @@ Eight source lines came from the transcripts before step 1 had filed them in `id
 
 ### Lines that simplify what was said
 
-- linkedin/2026-11-24-1, line 5 · "It isn't because reps are lazy." Turned from "the CRM wasn't wrong because my reps were lazy" into a general line.
-- linkedin/2026-11-24-1, line 13 · "The fix isn't a better training session." Turned from "You can't fix that with a better training session."
-- linkedin/2026-11-24-2, line 3 · Joins two lines said to the same customer, one at the start of the call and one near the end, and writes the customer as their role.
+- linkedin/2026-11-24-1, line 3 · "I didn't set out to build one." Shortened from "I didn't set out to build a CRM."
+- linkedin/2026-11-24-1, line 7 · "The reps weren't lazy. We'd asked salespeople to be data entry clerks." Turned from "the CRM wasn't wrong because my reps were lazy. It was wrong because we asked salespeople to be data entry clerks."
+- linkedin/2026-11-24-1, line 9 · "So we took the typing away." Turned from "You fix it by taking the typing away."
+- linkedin/2026-11-24-1, line 11 · On the call, "that part" is getting the data in and getting it right. The draft puts it after taking the typing away, which is the same work.
+- linkedin/2026-11-24-2, line 3 · Joins two lines said to the same customer, one at the start of the call and one near the end.
 - linkedin/2026-11-24-2, line 5 · On the call this was said to the customer, "worth more to [the customer] than any feature on our roadmap". The draft drops the customer's name.
-- linkedin/2026-11-24-3, line 7 · Shortened from "the forecast that comes out the other end is a mood, not a number."
-- linkedin/2026-11-24-3, lines 11 to 13 · The three rules are from the summing-up of the webinar, shortened, each with a line from earlier in the webinar.
+- linkedin/2026-11-24-2, line 9 · "And you don't need to bring the old mess with you." Turned from "Most teams want to bring over five years of history. You don't need it."
+- linkedin/2026-11-24-3, line 3 · Joins "Here's what we found when we looked at our own pipeline last spring." with the thirty-eight percent line, and writes "marked as "commit"" as "marked commit".
+- linkedin/2026-11-24-3, line 7 · Shortened from "I've been the rep saying "looking good" when I had no idea. Like, genuinely no idea. I was hoping."
+- linkedin/2026-11-24-3, line 11 · "The review is for decisions." Shortened from "the review is for decisions, not a roll call." in the summing-up.
 - x/2026-11-24-thread, posts 4, 6 and 7 · Shortened from the podcast, and the product's name is left out.
 - newsletter/2026-11-24, line 3 · Shortened from "it's, like, eight smart people, and we're all just squinting at a screen going, is this real?"
 - newsletter/2026-11-24, line 7 · On the call the mopping line follows hand cleaning of the CRM, and the draft joins the two.
@@ -36,34 +39,34 @@ Eight source lines came from the transcripts before step 1 had filed them in `id
 
 ### linkedin/2026-11-24-1
 
-- Line 5 · "It's because we asked salespeople to be data entry clerks." · 2026-10-02-revops-podcast [01:56] · "the CRM wasn't wrong because my reps were lazy. It was wrong because we asked salespeople to be data entry clerks."
-- Line 7 · "I ran sales at two startups before this. At both of them, the CRM was a graveyard of good intentions." · 2026-10-02-revops-podcast [01:00] · "So I ran sales at two startups before this, and at both of them the CRM was a graveyard of good intentions."
-- Line 9 · "We'd buy it, set it up beautifully, have a kickoff. Six weeks later it was wrong." · 2026-10-02-revops-podcast [01:00] · "We'd buy it, we'd set it up beautifully, we'd have a kickoff, and six weeks later it was wrong."
-- Line 11 · "Not a little wrong. The close dates were made up. Half the contacts had left their companies." · 2026-10-02-revops-podcast [01:00] · "Not a little wrong. The deal stages were wrong, the close dates were made up, half the contacts had left their companies."
-- Lines 13 and 15 · "The fix isn't a better training session." and "It's taking the typing away." · 2026-10-02-revops-podcast [01:56] · "You can't fix that with a better training session. You fix it by taking the typing away."
-- Line 17 · "The best CRM is the one that's right on Monday morning." · 2026-10-02-revops-podcast [08:22] · "The best CRM is the one that's right on Monday morning."
+- Line 3 · "I didn't set out to build one." · 2026-10-02-revops-podcast [01:00] · "You know, I didn't set out to build a CRM."
+- Line 5 · "I ran sales at two startups before this. At both of them, the CRM was a graveyard of good intentions. We'd buy it, set it up beautifully, have a kickoff. Six weeks later it was wrong." · 2026-10-02-revops-podcast [01:00] · "So I ran sales at two startups before this, and at both of them the CRM was a graveyard of good intentions. We'd buy it, we'd set it up beautifully, we'd have a kickoff, and six weeks later it was wrong."
+- Line 7 · "The reps weren't lazy. We'd asked salespeople to be data entry clerks." · 2026-10-02-revops-podcast [01:56] · "the CRM wasn't wrong because my reps were lazy. It was wrong because we asked salespeople to be data entry clerks."
+- Line 7 · "It's like asking a surgeon to also do the billing. During the surgery." · 2026-10-02-revops-podcast [01:56] · "It's like asking a surgeon to also do the billing. During the surgery."
+- Line 9 · "So we took the typing away." · 2026-10-02-revops-podcast [01:56] · "You fix it by taking the typing away."
+- Line 11 · "Nobody claps for that part. But it's the whole game." · 2026-10-02-revops-podcast [03:34] · "Nobody claps for that part. But it's the whole game."
+- Line 13 · "The best CRM is the one that's right on Monday morning." · 2026-10-02-revops-podcast [08:22] · "The best CRM is the one that's right on Monday morning."
 
 ### linkedin/2026-11-24-2
 
-- Line 1 · "Your first RevOps hire is cleaning data instead of building anything." · 2026-10-02-revops-podcast [06:45] · "when your first RevOps hire spends more time cleaning data than building anything."
-- Line 3 · "a team of one, was in week two of a migration" · 2026-10-29-customer-onboarding [00:03] · "I know week two of a migration is not anyone's favourite week." and, at [05:05], "You said earlier you're a RevOps team of one."
-- Line 5 · "If I can give you back half your week, that's worth more than any feature on our roadmap." · 2026-10-29-customer-onboarding [05:29] · "If I can give you back half your week, that's worth more to [the customer] than any feature on our roadmap."
-- Line 7 · "a RevOps person should be designing how the company sells. Not fixing typos in a database." · 2026-10-29-customer-onboarding [05:29] · "A RevOps person should be designing how the company sells, not fixing typos in a database."
-- Line 9 · "If you clean your CRM by hand this weekend, it'll be wrong again in three weeks, because the process that made it wrong is still there." · 2026-10-16-pipeline-webinar [04:21] · "If you clean your CRM by hand this weekend, it'll be wrong again in three weeks, because the process that made it wrong is still there."
+- Line 1 · "half their week used to go on cleaning data and building reports nobody trusted" · 2026-10-29-customer-onboarding [05:16], the customer · "Before, I'd say half my week was cleaning data and building reports nobody trusted."
+- Line 3 · "a team of one, two weeks into a migration" · 2026-10-29-customer-onboarding [00:03] · "I know week two of a migration is not anyone's favourite week." and, at [05:05], "You said earlier you're a RevOps team of one."
+- Line 5 · "if I can give you back half your week, that's worth more than any feature on our roadmap" · 2026-10-29-customer-onboarding [05:29] · "If I can give you back half your week, that's worth more to [the customer] than any feature on our roadmap."
+- Line 7 · "A RevOps person should be designing how the company sells, not fixing typos in a database. Territory planning is the fun part. You should get to do the fun part." · 2026-10-29-customer-onboarding [05:29] · "A RevOps person should be designing how the company sells, not fixing typos in a database." and "Territory planning is the fun part. You should get to do the fun part."
+- Line 9 · "It's a bit like moving house. You don't pack the junk drawer." · 2026-10-02-revops-podcast [07:22] · "It's a bit like moving house. You don't pack the junk drawer."
 - Line 11 · "if their first ninety days is cleanup, you've hired an expensive janitor." · 2026-11-12-founder-ama [00:58] · "If their first ninety days is cleanup, you've hired an expensive janitor."
 - Line 13 · "Hire them to design the process, and fix the data at the source." · 2026-11-12-founder-ama [00:58] · "Hire them to design the process, and fix the data at the source."
 
 ### linkedin/2026-11-24-3
 
-- Lines 3 and 5 · "Here's what we found when we looked at our own pipeline last spring." and the 38%, measured on the company's own pipeline last spring · 2026-10-16-pipeline-webinar [01:15] · "Here's what we found when we looked at our own pipeline last spring." and "Thirty-eight percent of the deals marked as "commit" had no buyer activity in the last fourteen days."
+- Line 1 · "I signed off on a forecast" · 2026-10-16-pipeline-webinar [01:15] · "Because I'd signed off on that forecast. That was me."
+- Line 3 · The thirty-eight percent, measured on the company's own pipeline last spring · 2026-10-16-pipeline-webinar [01:15] · "Here's what we found when we looked at our own pipeline last spring. Thirty-eight percent of the deals marked as "commit" had no buyer activity in the last fourteen days."
 - Line 5 · "The rep believed in them. The data said they were dead." · 2026-10-16-pipeline-webinar [01:15] · "The rep believed in them. The data said they were dead."
-- Line 7 · "A forecast like that is a mood, not a number." · 2026-10-16-pipeline-webinar [00:40] · "And the forecast that comes out the other end is a mood, not a number."
-- Line 9 · "Now we run on three rules." · 2026-10-16-pipeline-webinar [00:02] · "the three rules we run on now."
-- Lines 11 to 13 · The three rules · 2026-10-16-pipeline-webinar [06:39] · "One, fourteen days of silence moves a deal out of the forecast. Two, the buyer's words beat the rep's guess, and you show them side by side. Three, the review is for decisions, not a roll call."
-- Line 12 · "The review shows the exact line the buyer said, right next to the close date." · 2026-10-16-pipeline-webinar [02:45] · "Now the review shows the exact line the buyer said, with the timestamp, right next to the close date."
-- Line 13 · "We used to walk all forty deals. Now it's eight to ten." · 2026-10-16-pipeline-webinar [03:26] · "We used to walk all forty deals." and "Usually that's eight to ten."
-- Line 15 · "Our Monday review went from ninety minutes to about twenty-five." Measured on the company's own Monday review · 2026-10-16-pipeline-webinar [03:26] · "Our Monday review went from ninety minutes to about twenty-five."
-- Line 17 · "It's hard to argue with a recording." · 2026-10-16-pipeline-webinar [02:45] · "It's hard to argue with a recording."
+- Line 7 · "I'd been that rep, saying it was looking good when I had no idea. I was hoping." · 2026-10-16-pipeline-webinar [00:40] · "I've been the rep saying "looking good" when I had no idea. Like, genuinely no idea. I was hoping."
+- Line 9 · "fourteen days of silence moves a deal out of the forecast" · 2026-10-16-pipeline-webinar [06:39] · "One, fourteen days of silence moves a deal out of the forecast."
+- Line 11 · "The review is for decisions." · 2026-10-16-pipeline-webinar [06:39] · "Three, the review is for decisions, not a roll call."
+- Line 11 · "Do we bring in the CEO on this one? Do we offer a pilot? Do we walk away?" · 2026-10-16-pipeline-webinar [03:57] · "Do we bring in the CEO on this one? Do we offer a pilot? Do we walk away?"
+- Line 13 · "Nobody misses the roll call." · 2026-10-16-pipeline-webinar [03:26] · "Nobody misses the roll call."
 
 ### x/2026-11-24-thread
 
