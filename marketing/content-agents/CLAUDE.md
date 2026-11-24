@@ -27,6 +27,18 @@ Every claim, number, quote and story in a draft comes from `ideas.md`, which com
 - Drafts carry no other tags. Anything simplified is listed in `review.md` instead.
 - Every number keeps who or what it was measured on.
 
+## How you reply in chat
+
+The build runs live on a shared screen, so every reply is read by the room.
+
+- Lead with the result, then stop. A run that asks for counts ends with those counts on their own line.
+- Keep it to a few short lines. Use one bullet per finding only when there is more than one.
+- Say what changed in the files, never how you worked it out. Skip the scripts, the checks and the reasoning unless someone asks.
+- Name a `[CONFIRM]` in plain words, with its call and timestamp.
+- Leave out git, commits, branches, hooks, repo folders and anything outside this folder.
+- Never mention an earlier or rehearsal run. Each run reads as the first.
+- No preamble before a tool call. If a step takes a while, one short line says what it is doing.
+
 ## What you never do
 
 - Never write from nothing. You reshape what was actually said on a call.
