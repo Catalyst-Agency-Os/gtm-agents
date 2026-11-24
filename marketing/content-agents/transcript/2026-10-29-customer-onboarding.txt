@@ -1,0 +1,74 @@
+Maren Holt (00:03.440)
+Priya, hi, thanks for making time. I know week two of a migration is not anyone's favourite week.
+
+Priya Nair (00:12.069)
+Ha, it's actually going better than I expected. That's partly why I said yes to this call.
+
+Maren Holt (00:20.675)
+Good. So for context, you're Head of RevOps at Brightloop, you came over from the legacy CRM you'd had for four years, and we're about halfway through. What's been the hardest part so far?
+
+Priya Nair (00:35.419)
+Honestly, letting go of the history. My CEO wanted every activity from 2022 brought over.
+
+Maren Holt (00:43.081)
+Yeah, that's the most common thing I hear. And I always say the same thing. History you never look at isn't an asset, it's storage. We brought over your open deals and your active accounts, and everything else is in an archive you can search if you ever need it. In four years I've never had a customer go back to the archive more than a couple of times. It's like that box in the garage you've moved three times and never opened. You know exactly the one.
+
+Priya Nair (01:18.841)
+That made the CEO nervous at first.
+
+Maren Holt (01:23.206)
+It makes every CEO nervous. What usually helps is showing them the first pipeline review after the switch. When the data's true on day one, nobody misses the old stuff. Can I ask what your reps have said?
+
+Priya Nair (01:40.098)
+They're shocked they don't have to log calls. One of the AEs asked me if it was a trial feature that would go away.
+
+Maren Holt (01:50.970)
+I love that. That's the thing I care about most, honestly. The first week, reps don't trust it, so they double-check everything. By the third week, they stop opening the CRM to update it, and they only open it to look something up. That's the shift. The CRM goes from a chore to a memory. Honestly, that's my favourite thing to hear. When they think it's too good to last.
+
+Priya Nair (02:20.251)
+What should I watch for in the next two weeks?
+
+Maren Holt (02:25.472)
+Three things. One, watch the approval rate. Every change Quorvel proposes, a rep approves or rejects. If they're rejecting more than about one in five, something's off in how it's reading your calls, and I want to know. Two, watch for reps going around it. If someone's still keeping a spreadsheet on the side, that's a sign they don't trust the data yet, so ask them why. And three, run your next pipeline review straight from the flagged deals, not the full list.
+
+Priya Nair (02:59.691)
+The side spreadsheet thing is real. I think two of our reps still have one.
+
+Maren Holt (03:07.614)
+Totally normal. Don't take it away from them. Just ask them, in a week, which one they actually looked at. Usually the spreadsheet dies on its own.
+
+Priya Nair (03:19.712)
+One thing my board asked. How do we know the AI isn't making stuff up in the deal notes?
+
+Maren Holt (03:29.043)
+Every line it writes has a link back to the source. The email, or the minute in the call. If there's no source, it doesn't write it. That's the rule we built the whole product on. An AI that guesses is worse than an empty field, because people believe it. You know? A blank field at least admits it doesn't know. So if your board wants to check, have them click any note and they'll land on the exact line the buyer said.
+
+Priya Nair (04:02.942)
+That'll help. They're very skeptical of AI after the last tool we tried.
+
+Maren Holt (04:09.760)
+What happened with that one?
+
+Priya Nair (04:13.811)
+It was an AI SDR thing. It sent four thousand emails in a month and booked, I think, two meetings. And one of them was a student.
+
+Maren Holt (04:25.959)
+Oof. Yeah. I think a lot of teams got burned by AI that sends things on its own this year. Our view is AI should do the work nobody wants to do, the typing and the updating and the checking, and a person should do anything a buyer sees. We will never send an email on your behalf without a person pressing send. That's not a feature we're missing, it's a choice. I'd much rather your reps spend that time actually talking to someone.
+
+Priya Nair (05:00.830)
+That's actually a good line for my board deck.
+
+Maren Holt (05:05.760)
+Steal it. Okay, last thing. You said earlier you're a RevOps team of one. How's your week looking now compared to before?
+
+Priya Nair (05:16.157)
+Before, I'd say half my week was cleaning data and building reports nobody trusted. This week I spent most of it on our territory plan, which I've been putting off since summer.
+
+Maren Holt (05:29.946)
+That's the whole point. A RevOps person should be designing how the company sells, not fixing typos in a database. If I can give you back half your week, that's worth more to Brightloop than any feature on our roadmap. I mean that. Territory planning is the fun part. You should get to do the fun part.
+
+Priya Nair (05:53.909)
+Okay, I'll report back after the first full review.
+
+Maren Holt (05:59.418)
+Please do. And send me the side spreadsheet count. I'm keeping score.

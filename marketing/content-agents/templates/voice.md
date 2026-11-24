@@ -6,15 +6,49 @@
 
 ### Post 1
 
-[paste here]
+Prospects ask me the same thing every week. What does AI-native actually mean for a CRM?
+
+Here's how I explain it.
+
+Most CRMs are a filing cabinet. You hire people to walk over to it and put things in. Adding AI to that is bolting a robot arm on the cabinet. It pulls files out faster, but someone still has to type them in.
+
+We started from the other end. The AI's first job is to fill the cabinet.
+
+Every call, every email, every meeting becomes a record on its own. Every field links back to the minute a buyer said it. And nothing changes stage until a rep taps yes.
+
+The record looks the same. Who writes it is what changed.
+
+If your reps are still typing, you're not AI-native. You're AI-adjacent.
 
 ### Post 2
 
-[paste here]
+Someone on our team asked why our Monday pipeline review got so short.
+
+Here's the honest answer.
+
+We didn't get better at running meetings. We stopped spending the first twenty minutes arguing about whether the data was true.
+
+When every close date sits next to the line the buyer actually said, there's nothing to argue about. You just look.
+
+So the meeting turned into what it was always supposed to be. Eight or nine deals. A real decision on each one. Do we bring in our CEO? Offer a pilot? Walk away?
+
+Ninety minutes became twenty-five. Nice. But the part I care about is that all twenty-five are about buyers.
+
+Run your next review off the deals that changed. Skip the roll call.
 
 ### Post 3
 
-[paste here]
+I took last week off. First real week since we started Quorvel.
+
+I checked in twice. Ten minutes, total.
+
+When I logged back in on Monday, I didn't need a catch-up call. A buyer pushed to Q1 because legal wanted two more weeks. A champion went quiet for fourteen days and got flagged. A rep approved four close-date changes from his phone.
+
+Nobody typed any of it.
+
+What surprised me wasn't the software. It was the team. They ran the pipeline review without me, and it was shorter than mine.
+
+Humbling. Also the best news I've had all quarter.
 
 ## The rules
 

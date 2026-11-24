@@ -1,0 +1,71 @@
+Jordan Pike (00:04.210)
+Welcome back to Pipeline Hours. Today I've got Maren Holt, founder and CEO of Quorvel. Maren, thanks for coming on.
+
+Maren Holt (00:13.623)
+Thanks for having me. I've listened to this show for years, so this is a little surreal.
+
+Jordan Pike (00:22.230)
+So for people who don't know Quorvel, what is it, in one breath?
+
+Maren Holt (00:28.738)
+It's a CRM that fills itself in. It reads your email, your calendar and your call recordings, and it builds the records and keeps the pipeline current, so nobody on your team has to type anything into it. That's the one breath. And honestly, that's the whole thing. Everything else is, you know, kind of a consequence of that one decision.
+
+Jordan Pike (00:54.439)
+And why build another CRM? There are a lot of them.
+
+Maren Holt (01:00.003)
+Yeah, there are. You know, I didn't set out to build a CRM. Nobody wakes up wanting to build a CRM, frankly. So I ran sales at two startups before this, and at both of them the CRM was a graveyard of good intentions. We'd buy it, we'd set it up beautifully, we'd have a kickoff, and six weeks later it was wrong. Not a little wrong. The deal stages were wrong, the close dates were made up, half the contacts had left their companies. And every Monday I'd sit in a pipeline review where we spent the first twenty minutes arguing about whether the data was true. And I'd look around the room and it's, like, eight smart people, and we're all just squinting at a screen going, is this real? You know what I mean? That was the job.
+
+Maren Holt (01:56.917)
+And the thing I figured out is the CRM wasn't wrong because my reps were lazy. It was wrong because we asked salespeople to be data entry clerks. A rep's job is to talk to buyers. Every minute they spend typing notes into a form is a minute they're not selling, so of course they skip it. You can't fix that with a better training session. You fix it by taking the typing away. And I really like reps, by the way. I've been one. You get told no, like, thirty times a week, and then we hand you homework on top of it. It's like asking a surgeon to also do the billing. During the surgery.
+
+Jordan Pike (02:44.790)
+How much time are we actually talking about?
+
+Maren Holt (02:49.387)
+When we interviewed our first fifty customers before they switched, their reps said they spent about five to six hours a week on CRM admin. Logging calls, updating stages, copying notes over. That's most of a day. Every week. For a ten-person sales team, that's a whole extra rep's worth of time going into a database nobody trusts. And the funny thing is, when you ask reps what they hate about the CRM, it's never really the CRM. It's this nagging feeling that they forgot to log something and Monday's going to be awkward.
+
+Jordan Pike (03:28.080)
+That's brutal. So what does AI-native actually mean? Every CRM is saying AI now.
+
+Maren Holt (03:34.870)
+Yeah, and I think most of it is a chatbot bolted on the side. You've got the same old database with the same empty fields, and now there's a little sparkle button that writes you an email. That's AI on top. It's like putting a really nice espresso machine in a kitchen with no water line. Looks great. Nothing comes out. AI-native means the AI is how the data gets in, not a feature you click once it's there. If the record is empty, the AI has nothing to work with. So we started from the other end. The AI's first job is to make the record true. Everything else comes after that. So we spent, honestly, the first year on the boring part. Getting the data in, getting it right, making sure it points back to where it came from. Nobody claps for that part. But it's the whole game.
+
+Jordan Pike (04:35.755)
+Give me an example.
+
+Maren Holt (04:39.364)
+So a rep has a discovery call. The recording lands, Quorvel reads it, and it updates the deal. Who was on the call, what they said their budget was, which competitor they mentioned, the next step they agreed to and the date. The rep doesn't open anything. And if the buyer said "we'll decide in Q1" but the close date says December, it flags that, because now the forecast is lying. And as a buyer, by the way, I love this. I get way more of these calls than I make now, and the best reps are the ones who remember what I told them last time. That's it. That's the magic trick. They remember.
+
+Jordan Pike (05:25.972)
+Do reps trust it, though? I feel like there's a version of this where the AI writes something wrong and nobody notices.
+
+Maren Holt (05:36.480)
+That's the right worry. Two things. Every field it fills in links to where it came from. So if it says the budget is forty thousand, you click and you see the minute in the call where the buyer said forty thousand. And the second thing is it never changes a stage or a close date silently. It proposes the change and the rep approves it in one tap. We learned that the hard way. In our first beta we let it move stages on its own, and a rep at one of our early customers, Dev at Brightloop, told me it felt like someone else was driving his car. So now a person always says yes. Which, you know, I fought at first. I wanted it fully automatic. I was wrong. People want to steer. They want to see why, and they want the last word.
+
+Jordan Pike (06:35.477)
+I love that. Okay, the question everyone in RevOps asks me. When should a startup switch CRMs? Because migration is a nightmare.
+
+Maren Holt (06:45.824)
+It is a nightmare, and I'd say most teams switch too late. The signal I look for is when your pipeline review is about the data instead of the deals. If you spend the first half of every review asking "is this right?", your CRM has already failed, you just haven't admitted it. The other signal is when your first RevOps hire spends more time cleaning data than building anything. You know, the meeting's supposed to be about deals, and it's turned into a meeting about the meeting.
+
+Maren Holt (07:22.424)
+And the migration is less scary than people think if you don't try to move everything. Most teams want to bring over five years of history. You don't need it. Bring the open deals and the accounts you're actively selling to, and let the new system rebuild the rest from your email and calendar. Our median migration is about three weeks, and the teams that take longest are the ones trying to move every dead lead from 2021. It's a bit like moving house. You don't pack the junk drawer. You just don't.
+
+Jordan Pike (08:00.455)
+Three weeks. That's fast.
+
+Maren Holt (08:03.953)
+It's fast because we're not asking anyone to clean the old data first. We just stopped needing the old data to be clean.
+
+Jordan Pike (08:14.373)
+Last thing. What's the one thing you'd tell a founder who's about to buy their first CRM?
+
+Maren Holt (08:22.809)
+Don't buy the one with the most features. Buy the one your reps will actually keep true. The best CRM is the one that's right on Monday morning. A CRM with fifty features and wrong data is worse than a spreadsheet, because at least everyone knows the spreadsheet is a guess. Seriously. Pick the boring one your team will actually keep right.
+
+Jordan Pike (08:48.363)
+That's a great place to end. Maren, thank you.
+
+Maren Holt (08:53.503)
+Thanks, Jordan. This was fun.

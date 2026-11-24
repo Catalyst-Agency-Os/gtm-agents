@@ -1,0 +1,44 @@
+Maren Holt (00:02.118)
+Okay, I think we're live. Hi everyone, thanks for joining. Today is "Pipeline reviews that don't lie," and I want to keep this practical. I'll show you how we run our own pipeline review at Quorvel, what broke, and the three rules we run on now. Drop your role in the chat, I'd love to know who's here. And grab a coffee, this is going to be pretty hands-on.
+
+Maren Holt (00:30.747)
+I see a lot of heads of sales, some founders, a few RevOps people. Great. That's exactly who this is for.
+
+Maren Holt (00:40.922)
+So let's start with the problem. Most pipeline reviews are theater. Everyone shows up, the sales leader goes deal by deal, and every rep says their deal is "looking good." And the forecast that comes out the other end is a mood, not a number. I've run those meetings. I've been the rep saying "looking good" when I had no idea. Like, genuinely no idea. I was hoping. And everybody in the room kind of knows it, right? We all just politely agree to pretend.
+
+Maren Holt (01:15.665)
+Here's what we found when we looked at our own pipeline last spring. Thirty-eight percent of the deals marked as "commit" had no buyer activity in the last fourteen days. No email reply, no meeting, nothing. The rep believed in them. The data said they were dead. And when we checked at the end of the quarter, almost none of those closed. And I remember looking at that number and thinking, oh no. Because I'd signed off on that forecast. That was me.
+
+Maren Holt (01:49.994)
+So rule one: a deal with no buyer activity in fourteen days isn't a deal, it's a hope. We don't delete it. We just stop letting it sit in the forecast. Quorvel flags it automatically, because it can see the email thread and the calendar, and the rep has to either log a real next step or move it out. It feels harsh the first time. It's not. It's just honest.
+
+Maren Holt (02:19.088)
+Someone in the chat is asking, why fourteen days and not thirty. Honestly it depends on your sales cycle. For us, deals are about forty-five days on average, so two weeks of silence is a third of the cycle. If you sell to enterprise with a nine-month cycle, pick a longer window. The point is to pick one and hold everyone to it.
+
+Maren Holt (02:45.413)
+Rule two: the buyer's words beat the rep's guess. If the close date in the CRM says November and the buyer said on the call "we're looking at the new budget year," the buyer wins. We used to argue about this in the review. Now the review shows the exact line the buyer said, with the timestamp, right next to the close date. It ended a lot of arguments. It's hard to argue with a recording. You know, you can argue with my memory all day. You can't really argue with the buyer's own voice saying new budget year.
+
+Maren Holt (03:26.227)
+Rule three, and this is the one people push back on: the review is for the deals that need a decision, not every deal. We used to walk all forty deals. Now the review only covers the deals where something changed or something's stuck. Usually that's eight to ten. Our Monday review went from ninety minutes to about twenty-five. Which, honestly, was the most popular change we made all year. Nobody misses the roll call.
+
+Maren Holt (03:57.099)
+And I want to be careful here. The time saving isn't the point. The point is that the twenty-five minutes are about real decisions. Do we bring in the CEO on this one? Do we offer a pilot? Do we walk away? That's what a sales leader is paid to decide, not whether Tuesday's call got logged.
+
+Maren Holt (04:21.282)
+Question from the chat: does this work if your CRM data is bad today? Yes, but you have to fix where the data comes from, not the data itself. If you clean your CRM by hand this weekend, it'll be wrong again in three weeks, because the process that made it wrong is still there. You have to take the manual entry out of the loop, whether that's with us or with something else. It's like mopping with the tap still running.
+
+Maren Holt (04:54.739)
+Another one: what about AI forecasting tools? I think they're useful, but they're only as good as what you feed them. If you point an AI forecast at a CRM full of made-up close dates, you get a very confident, very wrong forecast. Garbage in, polished garbage out. Fix the inputs first. And I say that as someone who builds AI products. I want these tools to work. They just need something true to work on.
+
+Maren Holt (05:26.213)
+Let me show you the actual screen. So this is our pipeline view from last Monday. You can see the deals flagged in amber, those are the ones with no buyer activity in fourteen days. And this one here, the close date moved, and you can see why: the buyer said on Thursday's call that legal needs another two weeks. [inaudible] the rep approved the change on Friday.
+
+Maren Holt (05:54.919)
+One more thing on forecasting. We stopped asking reps for a gut percentage on each deal. Instead we track three things we can see: did the buyer reply in the last week, is there a meeting on the calendar, and did they name a decision date in their own words. Deals with all three closed at about four times the rate of deals with none. That's our own data across our own pipeline, so take it as one company's numbers, but it changed how I think about it. Which, you know, makes sense when you think about it. Those are all things the buyer did. Not things we hoped.
+
+Maren Holt (06:39.174)
+So to sum up. One, fourteen days of silence moves a deal out of the forecast. Two, the buyer's words beat the rep's guess, and you show them side by side. Three, the review is for decisions, not a roll call. And underneath all three, stop asking salespeople to type. If you only do one thing this week, pull your commit deals and check how many had buyer activity in the last two weeks. That number will tell you how true your forecast is.
+
+Maren Holt (07:13.995)
+Thanks everyone. The recording goes out tomorrow.

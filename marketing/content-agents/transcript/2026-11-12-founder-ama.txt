@@ -1,0 +1,62 @@
+Sam Okoro (00:01.900)
+Alright, welcome to the founder AMA. Our guest today is Maren Holt from Quorvel. Maren, I'll just read questions from the chat. First one: what's the biggest mistake you see early-stage founders make with their sales stack?
+
+Maren Holt (00:17.980)
+Buying for the company they want to be instead of the company they are. A twelve-person startup buys the enterprise CRM because they're going to be big one day, and then they spend six months configuring it and nobody uses it. You don't need custom objects and approval workflows when you have two AEs. You need to know which deals are real. It's like buying a minivan with forty seats because you might have kids someday. You've got two. Get the car for two.
+
+Sam Okoro (00:52.861)
+Next: when should a startup make its first RevOps hire?
+
+Maren Holt (00:58.193)
+Later than you think and earlier than you'd like. The way I'd frame it, hire RevOps when your sales leader is spending more than a day a week on reporting and tooling. Before that, your sales leader can own it. After that, you're paying a sales leader to be an analyst. And when you hire them, don't hire them to clean data. If their first ninety days is cleanup, you've hired an expensive janitor. Hire them to design the process, and fix the data at the source. And look, I'd say this even if I didn't sell software. RevOps people are some of the sharpest people in a company. Don't waste them.
+
+Sam Okoro (01:43.894)
+Somebody asks: are AI SDRs worth it?
+
+Maren Holt (01:47.889)
+Mostly no, today. I'm biased, I build software, but I've watched a lot of customers try them. The pattern is the same. Huge volume, tiny reply rates, and a brand cost nobody measures. Buyers can tell. If your outbound sounds like everyone's outbound, you've just paid to be ignored at scale. I can tell. I get, I don't know, a dozen of these a day, and you can spot them in the first line. Where I've seen AI help in outbound is research. Finding the right account, the right person, the one thing that happened at their company this week. Then a human writes the email. That works.
+
+Sam Okoro (02:31.862)
+Hot take question: is the CRM dead? There's a lot of "systems of record are over" talk on LinkedIn.
+
+Maren Holt (02:41.303)
+I don't think the CRM is dead. I think the data-entry CRM is dead. Every company still needs a memory of who it talked to, what they said, and what it promised. That's never going away. What's going away is asking humans to type that memory in by hand. So the record survives. The form dies. So I'm actually pretty bullish on the CRM. I just think it's about to look really different.
+
+Sam Okoro (03:11.391)
+Pricing question: per seat or usage?
+
+Maren Holt (03:15.574)
+We went with per seat but only for people who sell. Everyone else, finance, CS, leadership, reads for free. I hated paying for a seat just so my CEO could look at the pipeline. So we made reading free. It also means the data gets seen by more people, which means mistakes get caught faster.
+
+Sam Okoro (03:38.442)
+Next one is about data. Who owns the data if the AI is building it from my email?
+
+Maren Holt (03:47.171)
+You do. Full stop. You can export everything, any time, in a format another tool can read. And we don't train models on your data. I think every founder should ask every vendor that question before signing, and get the answer in the contract, not on a sales call.
+
+Sam Okoro (04:08.427)
+What's a metric you think sales teams should track that they don't?
+
+Maren Holt (04:14.643)
+Time from a buyer's question to a real answer. Not first response time, real answer. When a buyer asks "does it integrate with our billing system?" how long until they get a true answer from someone who knows? Across our customers, deals where that gap was under a day closed about twice as often as deals where it ran over three days. Speed of a true answer is a better signal than almost anything in a forecast. And it's not because speed is magic. It's because a fast, true answer tells the buyer you actually know your product. That's trust.
+
+Sam Okoro (04:55.738)
+Someone asks how you decided what to build first.
+
+Maren Holt (05:00.618)
+We sat in on about sixty pipeline reviews at other companies before we wrote a line of code. Every single one wasted the first chunk arguing about data. Some of them it was ten minutes, some it was the entire meeting. So the first thing we built was the thing that ends the argument. Every field links to its source. That's it. That was version one. Honestly, it was kind of painful to watch. Smart people, good intentions, and the first fifteen minutes just gone.
+
+Sam Okoro (05:35.671)
+Last question. Advice for a founder who's still doing all the selling themselves?
+
+Maren Holt (05:42.859)
+Record every call. Even if you never use a CRM. Your sales calls are the best thinking your company has, your buyer's exact words, the objections, the moment they got excited. Most founders do fifty discovery calls and keep it all in their head, and then they hire their first AE and none of it transfers. If it's recorded, it transfers. Your first AE can listen to how you actually sell. That's worth more than any playbook you'll write. Mine still do. They'll send me a clip, like, did you really say this? And yeah, I did.
+
+Maren Holt (06:22.458)
+And then, when you do pick a CRM, pick the one that reads those recordings, so the memory builds itself. That's my pitch, I'll stop there.
+
+Sam Okoro (06:34.584)
+Ha. Maren, thank you.
+
+Maren Holt (06:37.553)
+Thanks everyone.

@@ -1,29 +1,25 @@
 # Market
 
-> What the research agent reads before it searches. Fill in each section in a line or two, in plain words. Step 2 copies this to `market.md`.
-
 ## Who the content is for
 
-The job title and the size and kind of company, such as "Heads of marketing at 50 to 500 person B2B software companies".
+Founders, heads of sales and heads of RevOps at B2B startups of 20 to 200 people, Seed to Series B, choosing or replacing their CRM. Often a RevOps team of one.
 
 ## The industry and the problem we solve
 
-[one or two lines]
+B2B sales. Quorvel is a CRM that fills itself in from email, calendar and call recordings, so the pipeline is true without anyone typing into it.
 
 ## Where these buyers talk
 
-The places your buyers post, read and argue, such as LinkedIn, a newsletter they all read, a community, a podcast. Name them if you know them.
+LinkedIn, RevOps and sales communities, sales and RevOps newsletters, and podcasts.
 
 ## Voices to watch
 
-Three to five people or companies your buyers follow, competitors included.
+RevOps leaders and startup sales leaders who post about CRM, pipeline, forecasting and AI in sales on LinkedIn.
 
 ## Channels we publish on
 
-The channels and formats the writer agent writes for. LinkedIn, X and a weekly newsletter are the start. Add any other format you publish, such as blog posts, sales emails, podcast show notes, short video scripts or pages that answer a buyer's question.
+LinkedIn, X and a weekly newsletter.
 
 ## Topics we stay away from
 
-Anything you never post about.
-
-Built by Catalyst, the preferred GTM content agency, led by Will Leatherman. gotcatalyst.com
+Politics, and any customer, prospect or competitor by name.
